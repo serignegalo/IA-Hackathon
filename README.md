@@ -18,6 +18,8 @@ Les données proviennent du dataset de l'Hackathon organise par la Zone01 et com
 
 ## Prétraitement des Données
 
+NB: Le fichier main.ipynb est dans le dossier Notebook
+
 1. Gestion des valeurs manquantes : Suppression des colonnes avec trop de valeurs manquantes ou imputation par la mediane.
 
 2. Encodage des variables catégorielles : Transformation en variables dummies.
